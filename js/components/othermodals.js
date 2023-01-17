@@ -134,14 +134,7 @@ class AboutModal extends HTMLElement {
                                 <p i18n="address_3"></p>
                                 <p i18n="address_4"></p>
                             </div>
-                            <div class="buttons mb-1">
-                                <a class="button is-link is-small is-rounded" target="_blank" i18n-href="privacy-policy-url">
-                                    <span class="icon">
-                                        <i class="fa-solid fa-arrow-right"></i>
-                                    </span>
-                                    <span i18n="privacy-policy"></span>
-                                </a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
